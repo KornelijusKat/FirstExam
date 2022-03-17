@@ -1,0 +1,42 @@
+Clients table:
+Table number: 2 
+Seats: 2
+Ordered Items:
+Methsolut 8.00 Euro
+Deep Dish Porridge 20.00 Euro
+Total price: 28.00 Euro
+17/03/2022 21:20:05
+
+Clients table:
+Table number: 2 
+Seats: 2
+Ordered Items:
+Wine De Deleire 15.00 Euro
+Total price: 15.00 Euro
+17/03/2022 21:21:20
+
+Clients table:
+Table number: 2 
+Seats: 2
+Ordered Items:
+Overbrewed green tea 3.00 Euro
+Lobster Fondue 50.00 Euro
+Total price: 53.00 Euro
+17/03/2022 21:22:59
+
+Clients table:
+Table number: 4 
+Seats: 4
+Ordered Items:
+Coca Cola 2.00 Euro
+Sweet and sour Pork 15.00 Euro
+Total price: 17.00 Euro
+17/03/2022 21:25:10
+
+Clients table:
+Table number: 2 
+Seats: 2
+Ordered Items:
+Wine De Deleire 15.00 Euro
+Total price: 15.00 Euro
+17/03/2022 21:29:27

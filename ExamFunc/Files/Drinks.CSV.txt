@@ -1,0 +1,6 @@
+Coca Cola,2.00
+Methsolut,8.00
+Wine De Deleire,15.00
+Overbrewed green tea,3.00
+Spring water, 1.50
+Orange Juice, 3.30

@@ -1,0 +1,16 @@
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ExamFunc.csproj.AssemblyReference.cache
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ExamFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ExamFunc.AssemblyInfoInputs.cache
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ExamFunc.AssemblyInfo.cs
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ExamFunc.csproj.CoreCompileInputs.cache
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ExamFunc.genruntimeconfig.cache
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\Exam.exe
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\Exam.deps.json
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\Exam.runtimeconfig.json
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\Exam.dll
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\ref\Exam.dll
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\bin\Debug\net5.0\Exam.pdb
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\Exam.dll
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\ref\Exam.dll
+C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\obj\Debug\net5.0\Exam.pdb
