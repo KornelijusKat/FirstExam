@@ -1,8 +1,8 @@
 # FirstExam
 Restaurant Ordering Menu
 Changes for it to work:
-On MailingService Class, input your  Email in smtpClient.Credential and input your password, then input your email again in smtpClient.Send at From part.
-Change DinerMail Class CompanyEmail To your desired email which will be the companies mail.
+On MailingService Class, input your  Email in smtpClient.Credential and input your password, then input your email again in smtpClient.Send at the "From" part.
+Change DinerMail Class CompanyEmail To your desired email which will be the company mail.
 Order client email is inputed during program.
 Files Folder has the Drinks,Meals and Order Archive.
 At Repositories folder: DrinksRepository and MealRepository Edit the :
