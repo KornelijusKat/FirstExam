@@ -13,8 +13,8 @@ namespace ExamFunc
         }
         public List<Meal> GetList()
         {
-            FileReaderService der = new FileReaderService();
-            var readLines = der.FileReader(@"C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\Files\Meals.CSV.txt");
+            FileReaderService read = new FileReaderService();
+            var readLines = read.FileReader(@"C:\Users\Kornelijus\source\repos\ExamFunc\ExamFunc\Files\Meals.CSV.txt");
             foreach (var item in readLines)
             {
             var lines = item.Split(',');
