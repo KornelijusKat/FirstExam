@@ -3,7 +3,7 @@ using Xunit;
 using ExamFunc;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
+
 
 namespace ExamTesting
 {
